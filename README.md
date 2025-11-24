@@ -6,15 +6,15 @@ An end-to-end ETL pipeline in Python to ingest, clean, and transform e-commerce 
 
 ### Deliverables:
 
-Raw + cleaned datasets (CSV)
+• Raw + cleaned datasets (CSV)
 
-dim_date, dim_products, dim_customers, fact_transactions CSVs
+• dim_date, dim_products, dim_customers, fact_transactions CSVs
 
-Jupyter Notebook with full ETL + visualizations
+• Jupyter Notebook with full ETL + visualizations
 
-Power BI dashboard (design & DAX measures)
+• Power BI dashboard (design & DAX measures)
 
-README, SQL DDL, and analyst recommendations
+• README, SQL DDL, and my recommendations as a data analyst
 
 
 ### Impact: 
