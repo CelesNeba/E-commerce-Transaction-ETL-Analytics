@@ -38,5 +38,7 @@ Enables automated reporting, customer segmentation for retention campaigns, iden
 • Import data for cleaning
 ![Imported Data Screenshot](https://github.com/CelesNeba/E-commerce-Transaction-ETL-Analytics/raw/main/Imported%20data%201.JPG)
 
+• Data is cleaned, and all the necessary data manipulation is done, ready for visualization
+
 
 
