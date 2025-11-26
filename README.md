@@ -21,3 +21,8 @@ An end-to-end ETL pipeline in Python to ingest, clean, and transform e-commerce 
 Enables automated reporting, customer segmentation for retention campaigns, identification of high-value SKUs, and monitoring of return rates and payment performance.
 
 ## Dataset
+
+<a href="https://github.com/CelesNeba/E-commerce-Transaction-ETL-Analytics/blob/main/etl_sample_2000.csv.csv">
+  ETL Sample Dataset (2000 rows)
+</a>
+
