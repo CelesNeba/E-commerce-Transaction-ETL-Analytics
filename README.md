@@ -34,3 +34,5 @@ Enables automated reporting, customer segmentation for retention campaigns, iden
   Click here to view the dataset
 </a>
 
+### Step one
+• Import data for cleaning
