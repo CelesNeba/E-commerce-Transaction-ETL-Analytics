@@ -62,7 +62,7 @@ Enables automated reporting, customer segmentation for retention campaigns, iden
 
 ### My recommendation 
 
-This dashboard provides a comprehensive overview of key customer and sales trends derived from our ETL project. Based on the insights presented, I recommend focusing on strategies to improve customer retention, particularly within the 15-30 day purchase cycle. Further investigation into the factors driving product category performance and payment method preferences will enable targeted marketing and operational improvements to maximize revenue and customer lifetime value."
+This dashboard provides a comprehensive overview of key customer and sales trends derived from the ETL project. Based on the insights presented, I recommend focusing on strategies to improve customer retention, particularly within the 15-30 day purchase cycle. Further investigation into the factors driving product category performance and payment method preferences will enable targeted marketing and operational improvements to maximize revenue and customer lifetime value."
 
 
 
