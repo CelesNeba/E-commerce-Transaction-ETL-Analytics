@@ -1,4 +1,4 @@
-# E-commerce-Transaction-ETL-Analytics
+# ETL- Data Analytics
 ETL pipeline, star schema, and Power BI dashboard
 
 ### Summary:
@@ -19,3 +19,5 @@ An end-to-end ETL pipeline in Python to ingest, clean, and transform e-commerce 
 
 ### Impact: 
 Enables automated reporting, customer segmentation for retention campaigns, identification of high-value SKUs, and monitoring of return rates and payment performance.
+
+## Dataset
