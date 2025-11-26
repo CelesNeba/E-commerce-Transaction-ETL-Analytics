@@ -57,5 +57,8 @@ Enables automated reporting, customer segmentation for retention campaigns, iden
 
 • Count of transactions by payment method
 
+![ETL Dashboard Screenshot](https://github.com/CelesNeba/E-commerce-Transaction-ETL-Analytics/raw/main/ETL%20Dashboard.JPG)
+
+
 
 
