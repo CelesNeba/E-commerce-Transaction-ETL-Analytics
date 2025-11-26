@@ -18,7 +18,9 @@ An end-to-end ETL pipeline in Python to ingest, clean, and transform e-commerce 
 
 ### Tools used
 • Python (Pandas, NumPy, Matplotlib, Seaborn) in Jupyter Notebook
+
 • Mysql
+
 • Power BI
 
 
