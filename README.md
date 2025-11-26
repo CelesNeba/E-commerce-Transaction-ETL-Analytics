@@ -23,6 +23,6 @@ Enables automated reporting, customer segmentation for retention campaigns, iden
 ## Dataset
 
 <a href="https://github.com/CelesNeba/E-commerce-Transaction-ETL-Analytics/blob/main/etl_sample_2000.csv.csv">
-  ETL Sample Dataset (2000 rows)
+  Click here to view the dataset
 </a>
 
