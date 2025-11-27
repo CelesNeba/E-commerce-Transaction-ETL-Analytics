@@ -42,7 +42,7 @@ Enables automated reporting, customer segmentation for retention campaigns, iden
 
 
 
-•  cleaned data from the data warehouse,  all the necessary data manipulation has done, ready for visualization
+######  cleaned data from the data warehouse.  All the necessary data manipulation has been done, ready for visualization
 
 ![Clean Data Screenshot](https://github.com/CelesNeba/E-commerce-Transaction-ETL-Analytics/raw/main/Clean%20data.JPG)
 
