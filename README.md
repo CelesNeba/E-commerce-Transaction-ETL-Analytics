@@ -17,13 +17,14 @@ An end-to-end ETL pipeline in Python to ingest, clean, and transform e-commerce 
 • README, SQL DDL, and my recommendations as a data analyst
 
 ### Tools used
-• Python (Pandas, NumPy, Matplotlib, Seaborn) in Jupyter Notebook
 
-• Mysql
+ ✔ Jupyter Notebook  for data exploration and manipulation
+ 
+✔ Airflow for orchestration and scheduling ETL workflows
 
-• Power BI
+✔ Snowflake for data warehouse 
 
-
+✔ Power BI for data visualization 
 
 ### Impact: 
 Enables automated reporting, customer segmentation for retention campaigns, identification of high-value SKUs, and monitoring of return rates and payment performance.
