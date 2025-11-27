@@ -36,13 +36,14 @@ Enables automated reporting, customer segmentation for retention campaigns, iden
 </a>
 
 ### Step one
-• Import data for cleaning
+• Imported data for cleaning
 ![Imported Data Screenshot](https://github.com/CelesNeba/E-commerce-Transaction-ETL-Analytics/raw/main/Imported%20data%201.JPG)
 
 
 
 
-• Data is cleaned, and all the necessary data manipulation is done, ready for visualization
+•  cleaned data from the data warehouse,  all the necessary data manipulation has done, ready for visualization
+
 ![Clean Data Screenshot](https://github.com/CelesNeba/E-commerce-Transaction-ETL-Analytics/raw/main/Clean%20data.JPG)
 
 #####  I want to visualize:
